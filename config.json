@@ -141,7 +141,16 @@
       "path": "./photos/Kayaking/20141005_103418.jpg"
     }
   ],
-  "Moon": [],
+  "Moon": [
+    {
+      "height": 3240,
+      "compressed_path": "./photos/Moon/Crescent.min.jpg",
+      "width": 4320,
+      "compressed": true,
+      "placeholder_path": "./photos/Moon/Crescent.placeholder.jpg",
+      "path": "./photos/Moon/Crescent.jpg"
+    }
+  ],
   "Sunrises": [
     {
       "height": 3072,
@@ -626,14 +635,6 @@
       "compressed": true,
       "placeholder_path": "./photos/Landscape/PXL_20231023_142124053.placeholder.jpg",
       "path": "./photos/Landscape/PXL_20231023_142124053.jpg"
-    },
-    {
-      "height": 505,
-      "compressed_path": "./photos/Landscape/2015-12-06_08-21-46.min.jpg",
-      "width": 2048,
-      "compressed": true,
-      "placeholder_path": "./photos/Landscape/2015-12-06_08-21-46.placeholder.jpg",
-      "path": "./photos/Landscape/2015-12-06_08-21-46.jpg"
     },
     {
       "height": 2851,
