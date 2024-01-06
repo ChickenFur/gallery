@@ -1,548 +1,380 @@
 {
-  "Winter": [
+  "city": [
     {
-      "height": 2323,
-      "compressed_path": "./photos/Winter/2015-12-06_08-20-48.min.jpg",
-      "width": 6885,
+      "height": 1520,
+      "compressed_path": "./photos/city/SF Overlook.min.jpg",
+      "width": 2688,
       "compressed": true,
-      "placeholder_path": "./photos/Winter/2015-12-06_08-20-48.placeholder.jpg",
-      "path": "./photos/Winter/2015-12-06_08-20-48.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Winter/PXL_20230922_231049751.min.jpg",
-      "width": 4080,
-      "compressed": true,
-      "placeholder_path": "./photos/Winter/PXL_20230922_231049751.placeholder.jpg",
-      "path": "./photos/Winter/PXL_20230922_231049751.jpg"
-    },
-    {
-      "height": 4569,
-      "compressed_path": "./photos/Winter/Cliffs.min.jpg",
-      "width": 7222,
-      "compressed": true,
-      "placeholder_path": "./photos/Winter/Cliffs.placeholder.jpg",
-      "path": "./photos/Winter/Cliffs.jpg"
-    },
-    {
-      "height": 4618,
-      "compressed_path": "./photos/Winter/FootStepsToTheValleyBnW.min.jpg",
-      "width": 4228,
-      "compressed": true,
-      "placeholder_path": "./photos/Winter/FootStepsToTheValleyBnW.placeholder.jpg",
-      "path": "./photos/Winter/FootStepsToTheValleyBnW.jpg"
-    },
-    {
-      "height": 4320,
-      "compressed_path": "./photos/Winter/BnWTree,Stream, and Ice.min.jpg",
-      "width": 3240,
-      "compressed": true,
-      "placeholder_path": "./photos/Winter/BnWTree,Stream, and Ice.placeholder.jpg",
-      "path": "./photos/Winter/BnWTree,Stream, and Ice.jpg"
-    },
-    {
-      "height": 192,
-      "compressed_path": "./photos/Winter/Back Side of Timp.min.jpg",
-      "width": 1280,
-      "compressed": true,
-      "placeholder_path": "./photos/Winter/Back Side of Timp.placeholder.jpg",
-      "path": "./photos/Winter/Back Side of Timp.jpg"
-    },
-    {
-      "height": 3240,
-      "compressed_path": "./photos/Winter/Blue Blue Sky.min.jpg",
-      "width": 1024,
-      "compressed": true,
-      "placeholder_path": "./photos/Winter/Blue Blue Sky.placeholder.jpg",
-      "path": "./photos/Winter/Blue Blue Sky.jpg"
-    },
-    {
-      "height": 1272,
-      "compressed_path": "./photos/Winter/IMG_1424.min.jpg",
-      "width": 1696,
-      "compressed": true,
-      "placeholder_path": "./photos/Winter/IMG_1424.placeholder.jpg",
-      "path": "./photos/Winter/IMG_1424.jpg"
+      "placeholder_path": "./photos/city/SF Overlook.placeholder.jpg",
+      "path": "./photos/city/SF Overlook.jpg"
     },
     {
       "height": 960,
-      "compressed_path": "./photos/Winter/Crystals.min.jpg",
+      "compressed_path": "./photos/city/SF From Kirby Cove.min.jpg",
       "width": 1280,
       "compressed": true,
-      "placeholder_path": "./photos/Winter/Crystals.placeholder.jpg",
-      "path": "./photos/Winter/Crystals.jpg"
+      "placeholder_path": "./photos/city/SF From Kirby Cove.placeholder.jpg",
+      "path": "./photos/city/SF From Kirby Cove.jpg"
     },
     {
-      "height": 4141,
-      "compressed_path": "./photos/Winter/BnWTimpandsurronding area.min.jpg",
-      "width": 8652,
+      "height": 1520,
+      "compressed_path": "./photos/city/SF Sunrise.min.jpg",
+      "width": 2688,
       "compressed": true,
-      "placeholder_path": "./photos/Winter/BnWTimpandsurronding area.placeholder.jpg",
-      "path": "./photos/Winter/BnWTimpandsurronding area.jpg"
+      "placeholder_path": "./photos/city/SF Sunrise.placeholder.jpg",
+      "path": "./photos/city/SF Sunrise.jpg"
+    }
+  ],
+  "Timp": [
+    {
+      "height": 2422,
+      "compressed_path": "./photos/Timp/Timp From Tibble Fork Dam BnW.min.jpg",
+      "width": 5863,
+      "compressed": true,
+      "placeholder_path": "./photos/Timp/Timp From Tibble Fork Dam BnW.placeholder.jpg",
+      "path": "./photos/Timp/Timp From Tibble Fork Dam BnW.jpg"
+    },
+    {
+      "height": 3481,
+      "compressed_path": "./photos/Timp/Timp in Spring.min.jpg",
+      "width": 18974,
+      "compressed": true,
+      "placeholder_path": "./photos/Timp/Timp in Spring.placeholder.jpg",
+      "path": "./photos/Timp/Timp in Spring.jpg"
+    },
+    {
+      "height": 3865,
+      "compressed_path": "./photos/Timp/Timpanogas.min.jpg",
+      "width": 20898,
+      "compressed": true,
+      "placeholder_path": "./photos/Timp/Timpanogas.placeholder.jpg",
+      "path": "./photos/Timp/Timpanogas.jpg"
+    },
+    {
+      "height": 4005,
+      "compressed_path": "./photos/Timp/Timpanooke BowlBnw.min.jpg",
+      "width": 8200,
+      "compressed": true,
+      "placeholder_path": "./photos/Timp/Timpanooke BowlBnw.placeholder.jpg",
+      "path": "./photos/Timp/Timpanooke BowlBnw.jpg"
     },
     {
       "height": 3775,
-      "compressed_path": "./photos/Winter/AF trees and snow.min.jpg",
+      "compressed_path": "./photos/Timp/Trees and Sky.min.jpg",
       "width": 11187,
       "compressed": true,
-      "placeholder_path": "./photos/Winter/AF trees and snow.placeholder.jpg",
-      "path": "./photos/Winter/AF trees and snow.jpg"
+      "placeholder_path": "./photos/Timp/Trees and Sky.placeholder.jpg",
+      "path": "./photos/Timp/Trees and Sky.jpg"
+    }
+  ],
+  "RedRock": [
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2204.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_2204.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2204.jpg"
     },
     {
-      "height": 1720,
-      "compressed_path": "./photos/Winter/2015-12-06_08-21-07.min.jpg",
-      "width": 9301,
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2211.min.jpg",
+      "width": 1471,
       "compressed": true,
-      "placeholder_path": "./photos/Winter/2015-12-06_08-21-07.placeholder.jpg",
-      "path": "./photos/Winter/2015-12-06_08-21-07.jpg"
+      "placeholder_path": "./photos/RedRock/IMG_2211.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2211.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_0957.min.jpg",
+      "width": 1471,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_0957.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_0957.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1913.min.jpg",
+      "width": 1471,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_1913.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1913.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2229.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_2229.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2229.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2957.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_2957.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2957.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2228.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_2228.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2228.jpg"
+    },
+    {
+      "height": 1109,
+      "compressed_path": "./photos/RedRock/IMG_3929.min.jpg",
+      "width": 2868,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_3929.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_3929.jpg"
     },
     {
       "height": 3072,
-      "compressed_path": "./photos/Winter/PXL_20230922_221601882.min.jpg",
+      "compressed_path": "./photos/RedRock/PXL_20231003_002941128.min.jpg",
       "width": 4080,
       "compressed": true,
-      "placeholder_path": "./photos/Winter/PXL_20230922_221601882.placeholder.jpg",
-      "path": "./photos/Winter/PXL_20230922_221601882.jpg"
-    }
-  ],
-  "Potrait": [
+      "placeholder_path": "./photos/RedRock/PXL_20231003_002941128.placeholder.jpg",
+      "path": "./photos/RedRock/PXL_20231003_002941128.jpg"
+    },
     {
-      "height": 318,
-      "compressed_path": "./photos/Potrait/Eye.min.jpg",
-      "width": 436,
+      "height": 1617,
+      "compressed_path": "./photos/RedRock/PXL_20231002_003516852.PANO.min.jpg",
+      "width": 3652,
       "compressed": true,
-      "placeholder_path": "./photos/Potrait/Eye.placeholder.jpg",
-      "path": "./photos/Potrait/Eye.jpg"
-    }
-  ],
-  "Kayaking": [
-    {
-      "height": 2988,
-      "compressed_path": "./photos/Kayaking/20141005_103416.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/Kayaking/20141005_103416.placeholder.jpg",
-      "path": "./photos/Kayaking/20141005_103416.jpg"
+      "placeholder_path": "./photos/RedRock/PXL_20231002_003516852.PANO.placeholder.jpg",
+      "path": "./photos/RedRock/PXL_20231002_003516852.PANO.jpg"
     },
     {
       "height": 3024,
-      "compressed_path": "./photos/Kayaking/bird, scape.min.jpg",
+      "compressed_path": "./photos/RedRock/00100lPORTRAIT_00100_BURST20190426071916488_COVER-EFFECTS.min.jpg",
       "width": 4032,
       "compressed": true,
-      "placeholder_path": "./photos/Kayaking/bird, scape.placeholder.jpg",
-      "path": "./photos/Kayaking/bird, scape.jpg"
+      "placeholder_path": "./photos/RedRock/00100lPORTRAIT_00100_BURST20190426071916488_COVER-EFFECTS.placeholder.jpg",
+      "path": "./photos/RedRock/00100lPORTRAIT_00100_BURST20190426071916488_COVER-EFFECTS.jpg"
     },
     {
-      "height": 2988,
-      "compressed_path": "./photos/Kayaking/20141005_103418.min.jpg",
-      "width": 5312,
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2064.min.jpg",
+      "width": 2615,
       "compressed": true,
-      "placeholder_path": "./photos/Kayaking/20141005_103418.placeholder.jpg",
-      "path": "./photos/Kayaking/20141005_103418.jpg"
-    }
-  ],
-  "Moon": [
+      "placeholder_path": "./photos/RedRock/IMG_2064.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2064.jpg"
+    },
     {
-      "height": 3240,
-      "compressed_path": "./photos/Moon/Crescent.min.jpg",
-      "width": 4320,
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1637.min.jpg",
+      "width": 2615,
       "compressed": true,
-      "placeholder_path": "./photos/Moon/Crescent.placeholder.jpg",
-      "path": "./photos/Moon/Crescent.jpg"
-    }
-  ],
-  "Sunrises": [
+      "placeholder_path": "./photos/RedRock/IMG_1637.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1637.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1554.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_1554.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1554.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_0107.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_0107.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_0107.jpg"
+    },
     {
       "height": 3072,
-      "compressed_path": "./photos/Sunrises/PXL_20230909_131722844.min.jpg",
+      "compressed_path": "./photos/RedRock/PXL_20230305_151555842.min.jpg",
       "width": 4080,
       "compressed": true,
-      "placeholder_path": "./photos/Sunrises/PXL_20230909_131722844.placeholder.jpg",
-      "path": "./photos/Sunrises/PXL_20230909_131722844.jpg"
+      "placeholder_path": "./photos/RedRock/PXL_20230305_151555842.placeholder.jpg",
+      "path": "./photos/RedRock/PXL_20230305_151555842.jpg"
     },
     {
-      "height": 3024,
-      "compressed_path": "./photos/Sunrises/bridge.min.jpg",
-      "width": 4032,
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1573.min.jpg",
+      "width": 2615,
       "compressed": true,
-      "placeholder_path": "./photos/Sunrises/bridge.placeholder.jpg",
-      "path": "./photos/Sunrises/bridge.jpg"
+      "placeholder_path": "./photos/RedRock/IMG_1573.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1573.jpg"
     },
     {
-      "height": 2988,
-      "compressed_path": "./photos/Sunrises/2015-12-06_08-30-44.min.jpg",
-      "width": 5312,
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2085.min.jpg",
+      "width": 2615,
       "compressed": true,
-      "placeholder_path": "./photos/Sunrises/2015-12-06_08-30-44.placeholder.jpg",
-      "path": "./photos/Sunrises/2015-12-06_08-30-44.jpg"
+      "placeholder_path": "./photos/RedRock/IMG_2085.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2085.jpg"
     },
     {
-      "height": 2988,
-      "compressed_path": "./photos/Sunrises/Bolinas.min.jpg",
-      "width": 5312,
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1003.min.jpg",
+      "width": 2615,
       "compressed": true,
-      "placeholder_path": "./photos/Sunrises/Bolinas.placeholder.jpg",
-      "path": "./photos/Sunrises/Bolinas.jpg"
+      "placeholder_path": "./photos/RedRock/IMG_1003.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1003.jpg"
+    },
+    {
+      "height": 3852,
+      "compressed_path": "./photos/RedRock/BluffBnW.min.jpg",
+      "width": 9880,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/BluffBnW.placeholder.jpg",
+      "path": "./photos/RedRock/BluffBnW.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1996.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_1996.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1996.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_0040.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_0040.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_0040.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_0097.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_0097.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_0097.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1548.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_1548.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1548.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/RedRock/PXL_20231022_140137804.min.jpg",
+      "width": 4080,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/PXL_20231022_140137804.placeholder.jpg",
+      "path": "./photos/RedRock/PXL_20231022_140137804.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_3070.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_3070.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_3070.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2795.min.jpg",
+      "width": 1471,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_2795.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2795.jpg"
+    },
+    {
+      "height": 1590,
+      "compressed_path": "./photos/RedRock/IMG_3930.min.jpg",
+      "width": 1192,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_3930.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_3930.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_2153.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_2153.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_2153.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1936.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_1936.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1936.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/RedRock/PXL_20230308_001839432.min.jpg",
+      "width": 4080,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/PXL_20230308_001839432.placeholder.jpg",
+      "path": "./photos/RedRock/PXL_20230308_001839432.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/RedRock/IMG_1930.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/RedRock/IMG_1930.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1930.jpg"
     }
   ],
-  "TheBay": [
+  "Uintas": [
     {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/20140526_062407.min.jpg",
-      "width": 5312,
+      "height": 3072,
+      "compressed_path": "./photos/Uintas/PXL_20230922_231049751.min.jpg",
+      "width": 4080,
       "compressed": true,
-      "placeholder_path": "./photos/TheBay/20140526_062407.placeholder.jpg",
-      "path": "./photos/TheBay/20140526_062407.jpg"
+      "placeholder_path": "./photos/Uintas/PXL_20230922_231049751.placeholder.jpg",
+      "path": "./photos/Uintas/PXL_20230922_231049751.jpg"
     },
     {
-      "height": 1688,
-      "compressed_path": "./photos/TheBay/20140612_212103-EFFECTS.min.jpg",
-      "width": 3000,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/20140612_212103-EFFECTS.placeholder.jpg",
-      "path": "./photos/TheBay/20140612_212103-EFFECTS.jpg"
-    },
-    {
-      "height": 1826,
-      "compressed_path": "./photos/TheBay/2015-04-04 07.23.05.min.png",
-      "width": 2270,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-04-04 07.23.05.placeholder.png",
-      "path": "./photos/TheBay/2015-04-04 07.23.05.png"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/Behind the House.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/Behind the House.placeholder.jpg",
-      "path": "./photos/TheBay/Behind the House.jpg"
-    },
-    {
-      "height": 1836,
-      "compressed_path": "./photos/TheBay/2015-03-22 17.46.04.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-03-22 17.46.04.placeholder.jpg",
-      "path": "./photos/TheBay/2015-03-22 17.46.04.jpg"
-    },
-    {
-      "height": 1280,
-      "compressed_path": "./photos/TheBay/Fog Rolling in.min.jpg",
-      "width": 724,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/Fog Rolling in.placeholder.jpg",
-      "path": "./photos/TheBay/Fog Rolling in.jpg"
-    },
-    {
-      "height": 797,
-      "compressed_path": "./photos/TheBay/BnW GG and SF.min.jpg",
-      "width": 4160,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/BnW GG and SF.placeholder.jpg",
-      "path": "./photos/TheBay/BnW GG and SF.jpg"
-    },
-    {
-      "height": 1836,
-      "compressed_path": "./photos/TheBay/2015-03-01 06.50.21.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-03-01 06.50.21.placeholder.jpg",
-      "path": "./photos/TheBay/2015-03-01 06.50.21.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/2015-04-08 06.57.43.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-04-08 06.57.43.placeholder.jpg",
-      "path": "./photos/TheBay/2015-04-08 06.57.43.jpg"
-    },
-    {
-      "height": 724,
-      "compressed_path": "./photos/TheBay/GG.min.jpg",
-      "width": 1280,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/GG.placeholder.jpg",
-      "path": "./photos/TheBay/GG.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/2015-12-06_08-32-05.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-12-06_08-32-05.placeholder.jpg",
-      "path": "./photos/TheBay/2015-12-06_08-32-05.jpg"
-    },
-    {
-      "height": 1602,
-      "compressed_path": "./photos/TheBay/Coastal Trail.min.jpg",
-      "width": 2136,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/Coastal Trail.placeholder.jpg",
-      "path": "./photos/TheBay/Coastal Trail.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/2015-05-16 06.41.25.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-05-16 06.41.25.placeholder.jpg",
-      "path": "./photos/TheBay/2015-05-16 06.41.25.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/Dew and Fog.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/Dew and Fog.placeholder.jpg",
-      "path": "./photos/TheBay/Dew and Fog.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/20140731_201015.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/20140731_201015.placeholder.jpg",
-      "path": "./photos/TheBay/20140731_201015.jpg"
-    },
-    {
-      "height": 3464,
-      "compressed_path": "./photos/TheBay/1000157.min.jpg",
-      "width": 4618,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/1000157.placeholder.jpg",
-      "path": "./photos/TheBay/1000157.jpg"
-    },
-    {
-      "height": 3464,
-      "compressed_path": "./photos/TheBay/1000181.min.jpg",
-      "width": 4618,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/1000181.placeholder.jpg",
-      "path": "./photos/TheBay/1000181.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/Arch Rock, Point Reyes.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/Arch Rock, Point Reyes.placeholder.jpg",
-      "path": "./photos/TheBay/Arch Rock, Point Reyes.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/2015-05-03 15.28.16.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-05-03 15.28.16.placeholder.jpg",
-      "path": "./photos/TheBay/2015-05-03 15.28.16.jpg"
-    },
-    {
-      "height": 1836,
-      "compressed_path": "./photos/TheBay/2015-03-28 06.48.01.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-03-28 06.48.01.placeholder.jpg",
-      "path": "./photos/TheBay/2015-03-28 06.48.01.jpg"
-    },
-    {
-      "height": 5968,
-      "compressed_path": "./photos/TheBay/Foggy Morning Commute.min.jpg",
+      "height": 2304,
+      "compressed_path": "./photos/Uintas/Small Lake.min.jpg",
       "width": 3072,
       "compressed": true,
-      "placeholder_path": "./photos/TheBay/Foggy Morning Commute.placeholder.jpg",
-      "path": "./photos/TheBay/Foggy Morning Commute.jpg"
+      "placeholder_path": "./photos/Uintas/Small Lake.placeholder.jpg",
+      "path": "./photos/Uintas/Small Lake.jpg"
     },
     {
-      "height": 960,
-      "compressed_path": "./photos/TheBay/BnW Sunrise.min.jpg",
-      "width": 1280,
+      "height": 2304,
+      "compressed_path": "./photos/Uintas/Uintas.min.jpg",
+      "width": 3072,
       "compressed": true,
-      "placeholder_path": "./photos/TheBay/BnW Sunrise.placeholder.jpg",
-      "path": "./photos/TheBay/BnW Sunrise.jpg"
+      "placeholder_path": "./photos/Uintas/Uintas.placeholder.jpg",
+      "path": "./photos/Uintas/Uintas.jpg"
     },
     {
-      "height": 1664,
-      "compressed_path": "./photos/TheBay/Big Basin Panorama.min.jpg",
-      "width": 6512,
+      "height": 3516,
+      "compressed_path": "./photos/Uintas/LakeAndMountains.min.jpg",
+      "width": 12922,
       "compressed": true,
-      "placeholder_path": "./photos/TheBay/Big Basin Panorama.placeholder.jpg",
-      "path": "./photos/TheBay/Big Basin Panorama.jpg"
+      "placeholder_path": "./photos/Uintas/LakeAndMountains.placeholder.jpg",
+      "path": "./photos/Uintas/LakeAndMountains.jpg"
     },
     {
-      "height": 3088,
-      "compressed_path": "./photos/TheBay/IMG_20161017_175406.min.jpg",
-      "width": 4160,
+      "height": 2304,
+      "compressed_path": "./photos/Uintas/Little Lake.min.jpg",
+      "width": 3072,
       "compressed": true,
-      "placeholder_path": "./photos/TheBay/IMG_20161017_175406.placeholder.jpg",
-      "path": "./photos/TheBay/IMG_20161017_175406.jpg"
-    },
-    {
-      "height": 1520,
-      "compressed_path": "./photos/TheBay/City LIghts.min.jpg",
-      "width": 2688,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/City LIghts.placeholder.jpg",
-      "path": "./photos/TheBay/City LIghts.jpg"
-    },
-    {
-      "height": 3464,
-      "compressed_path": "./photos/TheBay/1000051.min.jpg",
-      "width": 4618,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/1000051.placeholder.jpg",
-      "path": "./photos/TheBay/1000051.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/TheBay/2015-05-16 07.43.29.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/2015-05-16 07.43.29.placeholder.jpg",
-      "path": "./photos/TheBay/2015-05-16 07.43.29.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/TheBay/IMG_20200424_064125.min.jpg",
-      "width": 4032,
-      "compressed": true,
-      "placeholder_path": "./photos/TheBay/IMG_20200424_064125.placeholder.jpg",
-      "path": "./photos/TheBay/IMG_20200424_064125.jpg"
+      "placeholder_path": "./photos/Uintas/Little Lake.placeholder.jpg",
+      "path": "./photos/Uintas/Little Lake.jpg"
     }
   ],
-  "GodRays": [
+  "Bridge": [
     {
-      "height": 5312,
-      "compressed_path": "./photos/GodRays/20140817_100039.min.jpg",
-      "width": 2988,
+      "height": 4032,
+      "compressed_path": "./photos/Bridge/sunlit bridge.min.jpg",
+      "width": 3024,
       "compressed": true,
-      "placeholder_path": "./photos/GodRays/20140817_100039.placeholder.jpg",
-      "path": "./photos/GodRays/20140817_100039.jpg"
-    },
-    {
-      "height": 5312,
-      "compressed_path": "./photos/GodRays/20140817_100228.min.jpg",
-      "width": 2988,
-      "compressed": true,
-      "placeholder_path": "./photos/GodRays/20140817_100228.placeholder.jpg",
-      "path": "./photos/GodRays/20140817_100228.jpg"
-    },
-    {
-      "height": 3036,
-      "compressed_path": "./photos/GodRays/IMG_20170529_064532.min.jpg",
-      "width": 4048,
-      "compressed": true,
-      "placeholder_path": "./photos/GodRays/IMG_20170529_064532.placeholder.jpg",
-      "path": "./photos/GodRays/IMG_20170529_064532.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/GodRays/20140817_095919.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/GodRays/20140817_095919.placeholder.jpg",
-      "path": "./photos/GodRays/20140817_095919.jpg"
-    },
-    {
-      "height": 3036,
-      "compressed_path": "./photos/GodRays/IMG_20170629_083554.min.jpg",
-      "width": 4048,
-      "compressed": true,
-      "placeholder_path": "./photos/GodRays/IMG_20170629_083554.placeholder.jpg",
-      "path": "./photos/GodRays/IMG_20170629_083554.jpg"
-    },
-    {
-      "height": 1520,
-      "compressed_path": "./photos/GodRays/IMAG0783.min.jpg",
-      "width": 2688,
-      "compressed": true,
-      "placeholder_path": "./photos/GodRays/IMAG0783.placeholder.jpg",
-      "path": "./photos/GodRays/IMAG0783.jpg"
-    },
-    {
-      "height": 3464,
-      "compressed_path": "./photos/GodRays/1000186.min.jpg",
-      "width": 4618,
-      "compressed": true,
-      "placeholder_path": "./photos/GodRays/1000186.placeholder.jpg",
-      "path": "./photos/GodRays/1000186.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/GodRays/IMG_20200413_074247.min.jpg",
-      "width": 4032,
-      "compressed": true,
-      "placeholder_path": "./photos/GodRays/IMG_20200413_074247.placeholder.jpg",
-      "path": "./photos/GodRays/IMG_20200413_074247.jpg"
-    }
-  ],
-  "Fall": [
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Fall/PXL_20230916_133720712.min.jpg",
-      "width": 4080,
-      "compressed": true,
-      "placeholder_path": "./photos/Fall/PXL_20230916_133720712.placeholder.jpg",
-      "path": "./photos/Fall/PXL_20230916_133720712.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Fall/PXL_20230918_133237820.min.jpg",
-      "width": 4080,
-      "compressed": true,
-      "placeholder_path": "./photos/Fall/PXL_20230918_133237820.placeholder.jpg",
-      "path": "./photos/Fall/PXL_20230918_133237820.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Fall/PXL_20230916_130741147.min.jpg",
-      "width": 4080,
-      "compressed": true,
-      "placeholder_path": "./photos/Fall/PXL_20230916_130741147.placeholder.jpg",
-      "path": "./photos/Fall/PXL_20230916_130741147.jpg"
-    }
-  ],
-  "Yosemite": [
-    {
-      "height": 2988,
-      "compressed_path": "./photos/Yosemite/2015-04-17 06.59.21.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/Yosemite/2015-04-17 06.59.21.placeholder.jpg",
-      "path": "./photos/Yosemite/2015-04-17 06.59.21.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/Yosemite/2015-04-17 06.56.59.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/Yosemite/2015-04-17 06.56.59.placeholder.jpg",
-      "path": "./photos/Yosemite/2015-04-17 06.56.59.jpg"
-    },
-    {
-      "height": 5312,
-      "compressed_path": "./photos/Yosemite/20150419_070912.min.jpg",
-      "width": 2988,
-      "compressed": true,
-      "placeholder_path": "./photos/Yosemite/20150419_070912.placeholder.jpg",
-      "path": "./photos/Yosemite/20150419_070912.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/Yosemite/2015-04-18 06.55.55.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/Yosemite/2015-04-18 06.55.55.placeholder.jpg",
-      "path": "./photos/Yosemite/2015-04-18 06.55.55.jpg"
-    },
-    {
-      "height": 2988,
-      "compressed_path": "./photos/Yosemite/2015-04-18 07.30.35.min.jpg",
-      "width": 5312,
-      "compressed": true,
-      "placeholder_path": "./photos/Yosemite/2015-04-18 07.30.35.placeholder.jpg",
-      "path": "./photos/Yosemite/2015-04-18 07.30.35.jpg"
+      "placeholder_path": "./photos/Bridge/sunlit bridge.placeholder.jpg",
+      "path": "./photos/Bridge/sunlit bridge.jpg"
     }
   ],
   "Beach": [
@@ -587,12 +419,1430 @@
       "path": "./photos/Beach/2015-03-23 09.58.17.jpg"
     },
     {
+      "height": 1520,
+      "compressed_path": "./photos/Beach/Rodeo Beach Sunset.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Beach/Rodeo Beach Sunset.placeholder.jpg",
+      "path": "./photos/Beach/Rodeo Beach Sunset.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Beach/Muir Beach.min.jpg",
+      "width": 3884,
+      "compressed": true,
+      "placeholder_path": "./photos/Beach/Muir Beach.placeholder.jpg",
+      "path": "./photos/Beach/Muir Beach.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Beach/IMG_20160406_194843.min.jpg",
+      "width": 4160,
+      "compressed": true,
+      "placeholder_path": "./photos/Beach/IMG_20160406_194843.placeholder.jpg",
+      "path": "./photos/Beach/IMG_20160406_194843.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Beach/IMG_2321.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Beach/IMG_2321.placeholder.jpg",
+      "path": "./photos/Beach/IMG_2321.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Beach/IMG_20170722_203026.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Beach/IMG_20170722_203026.placeholder.jpg",
+      "path": "./photos/Beach/IMG_20170722_203026.jpg"
+    },
+    {
       "height": 2988,
       "compressed_path": "./photos/Beach/20150117_152640.min.jpg",
       "width": 5312,
       "compressed": true,
       "placeholder_path": "./photos/Beach/20150117_152640.placeholder.jpg",
       "path": "./photos/Beach/20150117_152640.jpg"
+    }
+  ],
+  "Kayaking": [
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Kayaking/IMG_20181007_071601.min.jpg",
+      "width": 3024,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20181007_071601.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20181007_071601.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20180429_064652-EFFECTS.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20180429_064652-EFFECTS.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20180429_064652-EFFECTS.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Kayaking/20141005_103416.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/20141005_103416.placeholder.jpg",
+      "path": "./photos/Kayaking/20141005_103416.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/bird, scape.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/bird, scape.placeholder.jpg",
+      "path": "./photos/Kayaking/bird, scape.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20180225_064628.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20180225_064628.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20180225_064628.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Kayaking/IMG_0070.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_0070.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_0070.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/MVIMG_20190908_065920.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/MVIMG_20190908_065920.placeholder.jpg",
+      "path": "./photos/Kayaking/MVIMG_20190908_065920.jpg"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Kayaking/IMG_20180429_063940-EFFECTS.min.jpg",
+      "width": 3024,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20180429_063940-EFFECTS.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20180429_063940-EFFECTS.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20180610_055709.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20180610_055709.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20180610_055709.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20180909_071816-EFFECTS.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20180909_071816-EFFECTS.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20180909_071816-EFFECTS.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/MVIMG_20171119_062818.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/MVIMG_20171119_062818.placeholder.jpg",
+      "path": "./photos/Kayaking/MVIMG_20171119_062818.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20180121_072754.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20180121_072754.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20180121_072754.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20180401_074054.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20180401_074054.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20180401_074054.jpg"
+    },
+    {
+      "height": 3088,
+      "compressed_path": "./photos/Kayaking/IMG_20160211_064714.min.jpg",
+      "width": 4160,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20160211_064714.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20160211_064714.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20181007_071554.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20181007_071554.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20181007_071554.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Kayaking/20141005_103418.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/20141005_103418.placeholder.jpg",
+      "path": "./photos/Kayaking/20141005_103418.jpg"
+    },
+    {
+      "height": 4272,
+      "compressed_path": "./photos/Kayaking/Kayaking.min.jpg",
+      "width": 3216,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/Kayaking.placeholder.jpg",
+      "path": "./photos/Kayaking/Kayaking.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20171119_063135.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20171119_063135.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20171119_063135.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20171119_063858.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20171119_063858.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20171119_063858.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20190908_065253_1-EFFECTS.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20190908_065253_1-EFFECTS.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20190908_065253_1-EFFECTS.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20171119_063905.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20171119_063905.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20171119_063905.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Kayaking/IMG_20180415_065922.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Kayaking/IMG_20180415_065922.placeholder.jpg",
+      "path": "./photos/Kayaking/IMG_20180415_065922.jpg"
+    }
+  ],
+  "Yosemite": [
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Yosemite/2015-04-17 06.59.21.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Yosemite/2015-04-17 06.59.21.placeholder.jpg",
+      "path": "./photos/Yosemite/2015-04-17 06.59.21.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Yosemite/2015-04-17 06.56.59.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Yosemite/2015-04-17 06.56.59.placeholder.jpg",
+      "path": "./photos/Yosemite/2015-04-17 06.56.59.jpg"
+    },
+    {
+      "height": 5312,
+      "compressed_path": "./photos/Yosemite/20150419_070912.min.jpg",
+      "width": 2988,
+      "compressed": true,
+      "placeholder_path": "./photos/Yosemite/20150419_070912.placeholder.jpg",
+      "path": "./photos/Yosemite/20150419_070912.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Yosemite/2015-04-18 06.55.55.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Yosemite/2015-04-18 06.55.55.placeholder.jpg",
+      "path": "./photos/Yosemite/2015-04-18 06.55.55.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Yosemite/2015-04-18 07.30.35.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Yosemite/2015-04-18 07.30.35.placeholder.jpg",
+      "path": "./photos/Yosemite/2015-04-18 07.30.35.jpg"
+    }
+  ],
+  "Hawaii": [
+    {
+      "height": 1602,
+      "compressed_path": "./photos/Hawaii/Waipio.min.jpg",
+      "width": 2136,
+      "compressed": true,
+      "placeholder_path": "./photos/Hawaii/Waipio.placeholder.jpg",
+      "path": "./photos/Hawaii/Waipio.jpg"
+    },
+    {
+      "height": 1602,
+      "compressed_path": "./photos/Hawaii/Up River.min.jpg",
+      "width": 2136,
+      "compressed": true,
+      "placeholder_path": "./photos/Hawaii/Up River.placeholder.jpg",
+      "path": "./photos/Hawaii/Up River.jpg"
+    },
+    {
+      "height": 1602,
+      "compressed_path": "./photos/Hawaii/Sunrise Pink.min.jpg",
+      "width": 2136,
+      "compressed": true,
+      "placeholder_path": "./photos/Hawaii/Sunrise Pink.placeholder.jpg",
+      "path": "./photos/Hawaii/Sunrise Pink.jpg"
+    },
+    {
+      "height": 1344,
+      "compressed_path": "./photos/Hawaii/Narnia rainbow.min.jpg",
+      "width": 2880,
+      "compressed": true,
+      "placeholder_path": "./photos/Hawaii/Narnia rainbow.placeholder.jpg",
+      "path": "./photos/Hawaii/Narnia rainbow.jpg"
+    }
+  ],
+  "Trees": [
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Trees/MVIMG_20181201_074731.min.jpg",
+      "width": 3024,
+      "compressed": true,
+      "placeholder_path": "./photos/Trees/MVIMG_20181201_074731.placeholder.jpg",
+      "path": "./photos/Trees/MVIMG_20181201_074731.jpg"
+    },
+    {
+      "height": 960,
+      "compressed_path": "./photos/Trees/Pt Reyes Trail.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Trees/Pt Reyes Trail.placeholder.jpg",
+      "path": "./photos/Trees/Pt Reyes Trail.jpg"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Trees/IMG_20180902_103724.min.jpg",
+      "width": 3024,
+      "compressed": true,
+      "placeholder_path": "./photos/Trees/IMG_20180902_103724.placeholder.jpg",
+      "path": "./photos/Trees/IMG_20180902_103724.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Trees/MVIMG_20190717_100247.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Trees/MVIMG_20190717_100247.placeholder.jpg",
+      "path": "./photos/Trees/MVIMG_20190717_100247.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Trees/IMG_20190717_100425.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Trees/IMG_20190717_100425.placeholder.jpg",
+      "path": "./photos/Trees/IMG_20190717_100425.jpg"
+    }
+  ],
+  "Bay": [
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/20140526_062407.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/20140526_062407.placeholder.jpg",
+      "path": "./photos/Bay/20140526_062407.jpg"
+    },
+    {
+      "height": 1688,
+      "compressed_path": "./photos/Bay/20140612_212103-EFFECTS.min.jpg",
+      "width": 3000,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/20140612_212103-EFFECTS.placeholder.jpg",
+      "path": "./photos/Bay/20140612_212103-EFFECTS.jpg"
+    },
+    {
+      "height": 1826,
+      "compressed_path": "./photos/Bay/2015-04-04 07.23.05.min.png",
+      "width": 2270,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-04-04 07.23.05.placeholder.png",
+      "path": "./photos/Bay/2015-04-04 07.23.05.png"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/Bay/Palace of fine arts.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Palace of fine arts.placeholder.jpg",
+      "path": "./photos/Bay/Palace of fine arts.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/Bay/IMAG1585.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMAG1585.placeholder.jpg",
+      "path": "./photos/Bay/IMAG1585.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/Behind the House.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Behind the House.placeholder.jpg",
+      "path": "./photos/Bay/Behind the House.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Bay/IMG_20170211_063500.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_20170211_063500.placeholder.jpg",
+      "path": "./photos/Bay/IMG_20170211_063500.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/Moonlit SF.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Moonlit SF.placeholder.jpg",
+      "path": "./photos/Bay/Moonlit SF.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Bay/IMG_2362.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_2362.placeholder.jpg",
+      "path": "./photos/Bay/IMG_2362.jpg"
+    },
+    {
+      "height": 1836,
+      "compressed_path": "./photos/Bay/2015-03-22 17.46.04.min.jpg",
+      "width": 3264,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-03-22 17.46.04.placeholder.jpg",
+      "path": "./photos/Bay/2015-03-22 17.46.04.jpg"
+    },
+    {
+      "height": 1280,
+      "compressed_path": "./photos/Bay/Fog Rolling in.min.jpg",
+      "width": 724,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Fog Rolling in.placeholder.jpg",
+      "path": "./photos/Bay/Fog Rolling in.jpg"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Bay/IMG_20180121_072404.min.jpg",
+      "width": 3024,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_20180121_072404.placeholder.jpg",
+      "path": "./photos/Bay/IMG_20180121_072404.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/Headlands.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Headlands.placeholder.jpg",
+      "path": "./photos/Bay/Headlands.jpg"
+    },
+    {
+      "height": 797,
+      "compressed_path": "./photos/Bay/BnW GG and SF.min.jpg",
+      "width": 4160,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/BnW GG and SF.placeholder.jpg",
+      "path": "./photos/Bay/BnW GG and SF.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/Point Bonita.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Point Bonita.placeholder.jpg",
+      "path": "./photos/Bay/Point Bonita.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Bay/IMG_20171205_172932.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_20171205_172932.placeholder.jpg",
+      "path": "./photos/Bay/IMG_20171205_172932.jpg"
+    },
+    {
+      "height": 1836,
+      "compressed_path": "./photos/Bay/2015-03-01 06.50.21.min.jpg",
+      "width": 3264,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-03-01 06.50.21.placeholder.jpg",
+      "path": "./photos/Bay/2015-03-01 06.50.21.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/2015-04-08 06.57.43.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-04-08 06.57.43.placeholder.jpg",
+      "path": "./photos/Bay/2015-04-08 06.57.43.jpg"
+    },
+    {
+      "height": 724,
+      "compressed_path": "./photos/Bay/GG.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/GG.placeholder.jpg",
+      "path": "./photos/Bay/GG.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/2015-12-06_08-32-05.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-12-06_08-32-05.placeholder.jpg",
+      "path": "./photos/Bay/2015-12-06_08-32-05.jpg"
+    },
+    {
+      "height": 1602,
+      "compressed_path": "./photos/Bay/Coastal Trail.min.jpg",
+      "width": 2136,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Coastal Trail.placeholder.jpg",
+      "path": "./photos/Bay/Coastal Trail.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/2015-05-16 06.41.25.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-05-16 06.41.25.placeholder.jpg",
+      "path": "./photos/Bay/2015-05-16 06.41.25.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/Dew and Fog.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Dew and Fog.placeholder.jpg",
+      "path": "./photos/Bay/Dew and Fog.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Bay/MVIMG_20171117_173852.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/MVIMG_20171117_173852.placeholder.jpg",
+      "path": "./photos/Bay/MVIMG_20171117_173852.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/20140731_201015.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/20140731_201015.placeholder.jpg",
+      "path": "./photos/Bay/20140731_201015.jpg"
+    },
+    {
+      "height": 3464,
+      "compressed_path": "./photos/Bay/1000157.min.jpg",
+      "width": 4618,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/1000157.placeholder.jpg",
+      "path": "./photos/Bay/1000157.jpg"
+    },
+    {
+      "height": 3464,
+      "compressed_path": "./photos/Bay/1000181.min.jpg",
+      "width": 4618,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/1000181.placeholder.jpg",
+      "path": "./photos/Bay/1000181.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/Arch Rock, Point Reyes.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Arch Rock, Point Reyes.placeholder.jpg",
+      "path": "./photos/Bay/Arch Rock, Point Reyes.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/2015-05-03 15.28.16.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-05-03 15.28.16.placeholder.jpg",
+      "path": "./photos/Bay/2015-05-03 15.28.16.jpg"
+    },
+    {
+      "height": 1836,
+      "compressed_path": "./photos/Bay/2015-03-28 06.48.01.min.jpg",
+      "width": 3264,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-03-28 06.48.01.placeholder.jpg",
+      "path": "./photos/Bay/2015-03-28 06.48.01.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/GolgdenGate.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/GolgdenGate.placeholder.jpg",
+      "path": "./photos/Bay/GolgdenGate.jpg"
+    },
+    {
+      "height": 5968,
+      "compressed_path": "./photos/Bay/Foggy Morning Commute.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Foggy Morning Commute.placeholder.jpg",
+      "path": "./photos/Bay/Foggy Morning Commute.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Bay/IMG_20170718_062516.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_20170718_062516.placeholder.jpg",
+      "path": "./photos/Bay/IMG_20170718_062516.jpg"
+    },
+    {
+      "height": 960,
+      "compressed_path": "./photos/Bay/BnW Sunrise.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/BnW Sunrise.placeholder.jpg",
+      "path": "./photos/Bay/BnW Sunrise.jpg"
+    },
+    {
+      "height": 1664,
+      "compressed_path": "./photos/Bay/Big Basin Panorama.min.jpg",
+      "width": 6512,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Big Basin Panorama.placeholder.jpg",
+      "path": "./photos/Bay/Big Basin Panorama.jpg"
+    },
+    {
+      "height": 3088,
+      "compressed_path": "./photos/Bay/IMG_20161017_175406.min.jpg",
+      "width": 4160,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_20161017_175406.placeholder.jpg",
+      "path": "./photos/Bay/IMG_20161017_175406.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/Bay/City LIghts.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/City LIghts.placeholder.jpg",
+      "path": "./photos/Bay/City LIghts.jpg"
+    },
+    {
+      "height": 960,
+      "compressed_path": "./photos/Bay/Point Bonita Clear Day.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/Point Bonita Clear Day.placeholder.jpg",
+      "path": "./photos/Bay/Point Bonita Clear Day.jpg"
+    },
+    {
+      "height": 3464,
+      "compressed_path": "./photos/Bay/1000051.min.jpg",
+      "width": 4618,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/1000051.placeholder.jpg",
+      "path": "./photos/Bay/1000051.jpg"
+    },
+    {
+      "height": 900,
+      "compressed_path": "./photos/Bay/IMG_2427.min.jpg",
+      "width": 3840,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_2427.placeholder.jpg",
+      "path": "./photos/Bay/IMG_2427.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Bay/IMG_2394.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_2394.placeholder.jpg",
+      "path": "./photos/Bay/IMG_2394.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Bay/IMG_2419.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_2419.placeholder.jpg",
+      "path": "./photos/Bay/IMG_2419.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Bay/2015-05-16 07.43.29.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/2015-05-16 07.43.29.placeholder.jpg",
+      "path": "./photos/Bay/2015-05-16 07.43.29.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Bay/IMG_2424.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_2424.placeholder.jpg",
+      "path": "./photos/Bay/IMG_2424.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Bay/IMG_20200424_064125.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Bay/IMG_20200424_064125.placeholder.jpg",
+      "path": "./photos/Bay/IMG_20200424_064125.jpg"
+    }
+  ],
+  "Sunrises": [
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_0149.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_0149.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_0149.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Sunrises/IMG_20170215_065651.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20170215_065651.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20170215_065651.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_2365.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_2365.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_2365.jpg"
+    },
+    {
+      "height": 3040,
+      "compressed_path": "./photos/Sunrises/IMG_20151120_061432.min.jpg",
+      "width": 4096,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20151120_061432.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20151120_061432.jpg"
+    },
+    {
+      "height": 1536,
+      "compressed_path": "./photos/Sunrises/IMG_6516.min.jpg",
+      "width": 2048,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_6516.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_6516.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_1053.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_1053.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_1053.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Sunrises/PXL_20230909_131722844.min.jpg",
+      "width": 4080,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/PXL_20230909_131722844.placeholder.jpg",
+      "path": "./photos/Sunrises/PXL_20230909_131722844.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Sunrises/IMG_20190831_195438.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20190831_195438.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20190831_195438.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Sunrises/bridge.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/bridge.placeholder.jpg",
+      "path": "./photos/Sunrises/bridge.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/Sunrises/Stratus Sunrise SF.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/Stratus Sunrise SF.placeholder.jpg",
+      "path": "./photos/Sunrises/Stratus Sunrise SF.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_0289.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_0289.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_0289.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Sunrises/IMG_20170215_065436.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20170215_065436.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20170215_065436.jpg"
+    },
+    {
+      "height": 3040,
+      "compressed_path": "./photos/Sunrises/IMG_20151122_061829.min.jpg",
+      "width": 4096,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20151122_061829.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20151122_061829.jpg"
+    },
+    {
+      "height": 4048,
+      "compressed_path": "./photos/Sunrises/IMG_20170215_065623.min.jpg",
+      "width": 3036,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20170215_065623.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20170215_065623.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_2248.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_2248.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_2248.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_0265.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_0265.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_0265.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/Sunrises/IMAG1060.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMAG1060.placeholder.jpg",
+      "path": "./photos/Sunrises/IMAG1060.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Sunrises/IMG_20170425_061615.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20170425_061615.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20170425_061615.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_0295.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_0295.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_0295.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/Sunrises/Sunrise SF.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/Sunrise SF.placeholder.jpg",
+      "path": "./photos/Sunrises/Sunrise SF.jpg"
+    },
+    {
+      "height": 2542,
+      "compressed_path": "./photos/Sunrises/PANO_20170215_065519.min.jpg",
+      "width": 6290,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/PANO_20170215_065519.placeholder.jpg",
+      "path": "./photos/Sunrises/PANO_20170215_065519.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Sunrises/IMG_20190317_070621-EFFECTS.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20190317_070621-EFFECTS.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20190317_070621-EFFECTS.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Sunrises/MVIMG_20171028_070232.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/MVIMG_20171028_070232.placeholder.jpg",
+      "path": "./photos/Sunrises/MVIMG_20171028_070232.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Sunrises/MVIMG_20171119_063915.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/MVIMG_20171119_063915.placeholder.jpg",
+      "path": "./photos/Sunrises/MVIMG_20171119_063915.jpg"
+    },
+    {
+      "height": 3088,
+      "compressed_path": "./photos/Sunrises/IMG_20160430_194959.min.jpg",
+      "width": 4160,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20160430_194959.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20160430_194959.jpg"
+    },
+    {
+      "height": 3088,
+      "compressed_path": "./photos/Sunrises/IMG_20161009_072637.min.jpg",
+      "width": 4160,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20161009_072637.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20161009_072637.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Sunrises/IMG_20190907_065036-EFFECTS.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20190907_065036-EFFECTS.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20190907_065036-EFFECTS.jpg"
+    },
+    {
+      "height": 3040,
+      "compressed_path": "./photos/Sunrises/IMG_20150926_185808.min.jpg",
+      "width": 4096,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20150926_185808.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20150926_185808.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Sunrises/IMG_20170215_065548.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20170215_065548.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20170215_065548.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Sunrises/2015-12-06_08-30-44.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/2015-12-06_08-30-44.placeholder.jpg",
+      "path": "./photos/Sunrises/2015-12-06_08-30-44.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_0342.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_0342.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_0342.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/Sunrises/IMAG1028.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMAG1028.placeholder.jpg",
+      "path": "./photos/Sunrises/IMAG1028.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Sunrises/IMG_20151005_182634.min.jpg",
+      "width": 4160,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20151005_182634.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20151005_182634.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_0147.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_0147.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_0147.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Sunrises/Bolinas.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/Bolinas.placeholder.jpg",
+      "path": "./photos/Sunrises/Bolinas.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_2431.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_2431.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_2431.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Sunrises/IMG_2430.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_2430.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_2430.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Sunrises/IMG_20170929_063442.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/IMG_20170929_063442.placeholder.jpg",
+      "path": "./photos/Sunrises/IMG_20170929_063442.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Sunrises/MVIMG_20190907_063621-EFFECTS.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Sunrises/MVIMG_20190907_063621-EFFECTS.placeholder.jpg",
+      "path": "./photos/Sunrises/MVIMG_20190907_063621-EFFECTS.jpg"
+    }
+  ],
+  "Fog": [
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Fog/IMG_20170723_070926.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Fog/IMG_20170723_070926.placeholder.jpg",
+      "path": "./photos/Fog/IMG_20170723_070926.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Fog/IMG_20170807_063752.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Fog/IMG_20170807_063752.placeholder.jpg",
+      "path": "./photos/Fog/IMG_20170807_063752.jpg"
+    }
+  ],
+  "Escalante": [
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Escalante/MVIMG_20190426_071717-EFFECTS.min.jpg",
+      "width": 3024,
+      "compressed": true,
+      "placeholder_path": "./photos/Escalante/MVIMG_20190426_071717-EFFECTS.placeholder.jpg",
+      "path": "./photos/Escalante/MVIMG_20190426_071717-EFFECTS.jpg"
+    }
+  ],
+  "GodRays": [
+    {
+      "height": 5312,
+      "compressed_path": "./photos/GodRays/20140817_100039.min.jpg",
+      "width": 2988,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/20140817_100039.placeholder.jpg",
+      "path": "./photos/GodRays/20140817_100039.jpg"
+    },
+    {
+      "height": 5312,
+      "compressed_path": "./photos/GodRays/20140817_100228.min.jpg",
+      "width": 2988,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/20140817_100228.placeholder.jpg",
+      "path": "./photos/GodRays/20140817_100228.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/GodRays/IMG_20170529_064532.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/IMG_20170529_064532.placeholder.jpg",
+      "path": "./photos/GodRays/IMG_20170529_064532.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/GodRays/IMAG0779.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/IMAG0779.placeholder.jpg",
+      "path": "./photos/GodRays/IMAG0779.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/GodRays/20140817_095919.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/20140817_095919.placeholder.jpg",
+      "path": "./photos/GodRays/20140817_095919.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/GodRays/IMG_20170629_083554.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/IMG_20170629_083554.placeholder.jpg",
+      "path": "./photos/GodRays/IMG_20170629_083554.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/GodRays/IMAG0783.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/IMAG0783.placeholder.jpg",
+      "path": "./photos/GodRays/IMAG0783.jpg"
+    },
+    {
+      "height": 3464,
+      "compressed_path": "./photos/GodRays/1000186.min.jpg",
+      "width": 4618,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/1000186.placeholder.jpg",
+      "path": "./photos/GodRays/1000186.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/GodRays/IMG_20200413_074247.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/IMG_20200413_074247.placeholder.jpg",
+      "path": "./photos/GodRays/IMG_20200413_074247.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/GodRays/IMG_20160717_083003.min.jpg",
+      "width": 3088,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/IMG_20160717_083003.placeholder.jpg",
+      "path": "./photos/GodRays/IMG_20160717_083003.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/GodRays/IMG_20170629_083533.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/GodRays/IMG_20170629_083533.placeholder.jpg",
+      "path": "./photos/GodRays/IMG_20170629_083533.jpg"
+    }
+  ],
+  "Fall": [
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Fall/PXL_20230916_133720712.min.jpg",
+      "width": 4080,
+      "compressed": true,
+      "placeholder_path": "./photos/Fall/PXL_20230916_133720712.placeholder.jpg",
+      "path": "./photos/Fall/PXL_20230916_133720712.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Fall/PXL_20230918_133237820.min.jpg",
+      "width": 4080,
+      "compressed": true,
+      "placeholder_path": "./photos/Fall/PXL_20230918_133237820.placeholder.jpg",
+      "path": "./photos/Fall/PXL_20230918_133237820.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Fall/PXL_20230916_130741147.min.jpg",
+      "width": 4080,
+      "compressed": true,
+      "placeholder_path": "./photos/Fall/PXL_20230916_130741147.placeholder.jpg",
+      "path": "./photos/Fall/PXL_20230916_130741147.jpg"
+    }
+  ],
+  "Moon": [
+    {
+      "height": 3240,
+      "compressed_path": "./photos/Moon/Crescent.min.jpg",
+      "width": 4320,
+      "compressed": true,
+      "placeholder_path": "./photos/Moon/Crescent.placeholder.jpg",
+      "path": "./photos/Moon/Crescent.jpg"
+    },
+    {
+      "height": 960,
+      "compressed_path": "./photos/Moon/Moon Shot.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Moon/Moon Shot.placeholder.jpg",
+      "path": "./photos/Moon/Moon Shot.jpg"
+    }
+  ],
+  "Winter": [
+    {
+      "height": 2323,
+      "compressed_path": "./photos/Winter/2015-12-06_08-20-48.min.jpg",
+      "width": 6885,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/2015-12-06_08-20-48.placeholder.jpg",
+      "path": "./photos/Winter/2015-12-06_08-20-48.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Winter/PXL_20230922_231049751.min.jpg",
+      "width": 4080,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/PXL_20230922_231049751.placeholder.jpg",
+      "path": "./photos/Winter/PXL_20230922_231049751.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Winter/IMG_1451.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/IMG_1451.placeholder.jpg",
+      "path": "./photos/Winter/IMG_1451.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Winter/IMG_1241.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/IMG_1241.placeholder.jpg",
+      "path": "./photos/Winter/IMG_1241.jpg"
+    },
+    {
+      "height": 4569,
+      "compressed_path": "./photos/Winter/Cliffs.min.jpg",
+      "width": 7222,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Cliffs.placeholder.jpg",
+      "path": "./photos/Winter/Cliffs.jpg"
+    },
+    {
+      "height": 1058,
+      "compressed_path": "./photos/Winter/Lake Hardy.min.jpg",
+      "width": 9702,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Lake Hardy.placeholder.jpg",
+      "path": "./photos/Winter/Lake Hardy.jpg"
+    },
+    {
+      "height": 381,
+      "compressed_path": "./photos/Winter/LakeHardyBW (Large).min.jpg",
+      "width": 1920,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/LakeHardyBW (Large).placeholder.jpg",
+      "path": "./photos/Winter/LakeHardyBW (Large).jpg"
+    },
+    {
+      "height": 4618,
+      "compressed_path": "./photos/Winter/FootStepsToTheValleyBnW.min.jpg",
+      "width": 4228,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/FootStepsToTheValleyBnW.placeholder.jpg",
+      "path": "./photos/Winter/FootStepsToTheValleyBnW.jpg"
+    },
+    {
+      "height": 4060,
+      "compressed_path": "./photos/Winter/Meadow.min.jpg",
+      "width": 7057,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Meadow.placeholder.jpg",
+      "path": "./photos/Winter/Meadow.jpg"
+    },
+    {
+      "height": 4320,
+      "compressed_path": "./photos/Winter/BnWTree,Stream, and Ice.min.jpg",
+      "width": 3240,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/BnWTree,Stream, and Ice.placeholder.jpg",
+      "path": "./photos/Winter/BnWTree,Stream, and Ice.jpg"
+    },
+    {
+      "height": 192,
+      "compressed_path": "./photos/Winter/Back Side of Timp.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Back Side of Timp.placeholder.jpg",
+      "path": "./photos/Winter/Back Side of Timp.jpg"
+    },
+    {
+      "height": 1707,
+      "compressed_path": "./photos/Winter/WIndow Of Ice.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/WIndow Of Ice.placeholder.jpg",
+      "path": "./photos/Winter/WIndow Of Ice.jpg"
+    },
+    {
+      "height": 3240,
+      "compressed_path": "./photos/Winter/Blue Blue Sky.min.jpg",
+      "width": 1024,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Blue Blue Sky.placeholder.jpg",
+      "path": "./photos/Winter/Blue Blue Sky.jpg"
+    },
+    {
+      "height": 1272,
+      "compressed_path": "./photos/Winter/IMG_1424.min.jpg",
+      "width": 1696,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/IMG_1424.placeholder.jpg",
+      "path": "./photos/Winter/IMG_1424.jpg"
+    },
+    {
+      "height": 1026,
+      "compressed_path": "./photos/Winter/Mill Peak Panorama.min.jpg",
+      "width": 9514,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Mill Peak Panorama.placeholder.jpg",
+      "path": "./photos/Winter/Mill Peak Panorama.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Winter/IMG_2699.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/IMG_2699.placeholder.jpg",
+      "path": "./photos/Winter/IMG_2699.jpg"
+    },
+    {
+      "height": 4058,
+      "compressed_path": "./photos/Winter/panorama.min.jpg",
+      "width": 18311,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/panorama.placeholder.jpg",
+      "path": "./photos/Winter/panorama.jpg"
+    },
+    {
+      "height": 1520,
+      "compressed_path": "./photos/Winter/Ice Crystals.min.jpg",
+      "width": 2688,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Ice Crystals.placeholder.jpg",
+      "path": "./photos/Winter/Ice Crystals.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Winter/IMG_1386.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/IMG_1386.placeholder.jpg",
+      "path": "./photos/Winter/IMG_1386.jpg"
+    },
+    {
+      "height": 3036,
+      "compressed_path": "./photos/Winter/IMG_20170115_150058.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/IMG_20170115_150058.placeholder.jpg",
+      "path": "./photos/Winter/IMG_20170115_150058.jpg"
+    },
+    {
+      "height": 960,
+      "compressed_path": "./photos/Winter/Crystals.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Crystals.placeholder.jpg",
+      "path": "./photos/Winter/Crystals.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Winter/IMG_2695.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/IMG_2695.placeholder.jpg",
+      "path": "./photos/Winter/IMG_2695.jpg"
+    },
+    {
+      "height": 3446,
+      "compressed_path": "./photos/Winter/Panorama High Meadow.min.jpg",
+      "width": 23223,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Panorama High Meadow.placeholder.jpg",
+      "path": "./photos/Winter/Panorama High Meadow.jpg"
+    },
+    {
+      "height": 4059,
+      "compressed_path": "./photos/Winter/Lake Hardy Black N White.min.jpg",
+      "width": 12550,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Lake Hardy Black N White.placeholder.jpg",
+      "path": "./photos/Winter/Lake Hardy Black N White.jpg"
+    },
+    {
+      "height": 4141,
+      "compressed_path": "./photos/Winter/BnWTimpandsurronding area.min.jpg",
+      "width": 8652,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/BnWTimpandsurronding area.placeholder.jpg",
+      "path": "./photos/Winter/BnWTimpandsurronding area.jpg"
+    },
+    {
+      "height": 3775,
+      "compressed_path": "./photos/Winter/AF trees and snow.min.jpg",
+      "width": 11187,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/AF trees and snow.placeholder.jpg",
+      "path": "./photos/Winter/AF trees and snow.jpg"
+    },
+    {
+      "height": 1720,
+      "compressed_path": "./photos/Winter/2015-12-06_08-21-07.min.jpg",
+      "width": 9301,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/2015-12-06_08-21-07.placeholder.jpg",
+      "path": "./photos/Winter/2015-12-06_08-21-07.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Winter/PXL_20230922_221601882.min.jpg",
+      "width": 4080,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/PXL_20230922_221601882.placeholder.jpg",
+      "path": "./photos/Winter/PXL_20230922_221601882.jpg"
+    },
+    {
+      "height": 1052,
+      "compressed_path": "./photos/Winter/Lake Hardy Trees.min.jpg",
+      "width": 5896,
+      "compressed": true,
+      "placeholder_path": "./photos/Winter/Lake Hardy Trees.placeholder.jpg",
+      "path": "./photos/Winter/Lake Hardy Trees.jpg"
+    }
+  ],
+  "Potrait": [
+    {
+      "height": 318,
+      "compressed_path": "./photos/Potrait/Eye.min.jpg",
+      "width": 436,
+      "compressed": true,
+      "placeholder_path": "./photos/Potrait/Eye.placeholder.jpg",
+      "path": "./photos/Potrait/Eye.jpg"
     }
   ],
   "Landscape": [
@@ -613,6 +1863,14 @@
       "path": "./photos/Landscape/20150712_114958.jpg"
     },
     {
+      "height": 3465,
+      "compressed_path": "./photos/Landscape/Guitar Lake Panorama.min.jpg",
+      "width": 21502,
+      "compressed": true,
+      "placeholder_path": "./photos/Landscape/Guitar Lake Panorama.placeholder.jpg",
+      "path": "./photos/Landscape/Guitar Lake Panorama.jpg"
+    },
+    {
       "height": 8054,
       "compressed_path": "./photos/Landscape/20150704_121307.min.jpg",
       "width": 1986,
@@ -621,12 +1879,28 @@
       "path": "./photos/Landscape/20150704_121307.jpg"
     },
     {
+      "height": 4048,
+      "compressed_path": "./photos/Landscape/IMG_20170417_110425.min.jpg",
+      "width": 3036,
+      "compressed": true,
+      "placeholder_path": "./photos/Landscape/IMG_20170417_110425.placeholder.jpg",
+      "path": "./photos/Landscape/IMG_20170417_110425.jpg"
+    },
+    {
       "height": 3240,
       "compressed_path": "./photos/Landscape/AFlower.min.jpg",
       "width": 4320,
       "compressed": true,
       "placeholder_path": "./photos/Landscape/AFlower.placeholder.jpg",
       "path": "./photos/Landscape/AFlower.jpg"
+    },
+    {
+      "height": 1961,
+      "compressed_path": "./photos/Landscape/IMG_1587.min.jpg",
+      "width": 2615,
+      "compressed": true,
+      "placeholder_path": "./photos/Landscape/IMG_1587.placeholder.jpg",
+      "path": "./photos/Landscape/IMG_1587.jpg"
     },
     {
       "height": 2947,
@@ -645,12 +1919,28 @@
       "path": "./photos/Landscape/FogPanorama.jpg"
     },
     {
+      "height": 3036,
+      "compressed_path": "./photos/Landscape/IMG_20170711_183118.min.jpg",
+      "width": 4048,
+      "compressed": true,
+      "placeholder_path": "./photos/Landscape/IMG_20170711_183118.placeholder.jpg",
+      "path": "./photos/Landscape/IMG_20170711_183118.jpg"
+    },
+    {
       "height": 3240,
       "compressed_path": "./photos/Landscape/FlowerwTree1.min.jpg",
       "width": 4320,
       "compressed": true,
       "placeholder_path": "./photos/Landscape/FlowerwTree1.placeholder.jpg",
       "path": "./photos/Landscape/FlowerwTree1.jpg"
+    },
+    {
+      "height": 1536,
+      "compressed_path": "./photos/Landscape/IMG_6545.min.jpg",
+      "width": 2048,
+      "compressed": true,
+      "placeholder_path": "./photos/Landscape/IMG_6545.placeholder.jpg",
+      "path": "./photos/Landscape/IMG_6545.jpg"
     },
     {
       "height": 3072,
@@ -675,64 +1965,72 @@
       "compressed": true,
       "placeholder_path": "./photos/Landscape/Coconut trees.placeholder.jpg",
       "path": "./photos/Landscape/Coconut trees.jpg"
-    }
-  ],
-  "RedRock": [
-    {
-      "height": 3072,
-      "compressed_path": "./photos/RedRock/PXL_20231003_002941128.min.jpg",
-      "width": 4080,
-      "compressed": true,
-      "placeholder_path": "./photos/RedRock/PXL_20231003_002941128.placeholder.jpg",
-      "path": "./photos/RedRock/PXL_20231003_002941128.jpg"
     },
     {
-      "height": 1617,
-      "compressed_path": "./photos/RedRock/PXL_20231002_003516852.PANO.min.jpg",
-      "width": 3652,
+      "height": 3456,
+      "compressed_path": "./photos/Landscape/Guitar Lake.min.jpg",
+      "width": 4608,
       "compressed": true,
-      "placeholder_path": "./photos/RedRock/PXL_20231002_003516852.PANO.placeholder.jpg",
-      "path": "./photos/RedRock/PXL_20231002_003516852.PANO.jpg"
+      "placeholder_path": "./photos/Landscape/Guitar Lake.placeholder.jpg",
+      "path": "./photos/Landscape/Guitar Lake.jpg"
+    }
+  ],
+  "Mt Tam": [
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Mt Tam/IMG_20200509_061803-EFFECTS.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/Mt Tam/IMG_20200509_061803-EFFECTS.placeholder.jpg",
+      "path": "./photos/Mt Tam/IMG_20200509_061803-EFFECTS.jpg"
+    },
+    {
+      "height": 2988,
+      "compressed_path": "./photos/Mt Tam/Tam Sunrise.min.jpg",
+      "width": 5312,
+      "compressed": true,
+      "placeholder_path": "./photos/Mt Tam/Tam Sunrise.placeholder.jpg",
+      "path": "./photos/Mt Tam/Tam Sunrise.jpg"
+    },
+    {
+      "height": 724,
+      "compressed_path": "./photos/Mt Tam/Telescopic View.min.jpg",
+      "width": 1280,
+      "compressed": true,
+      "placeholder_path": "./photos/Mt Tam/Telescopic View.placeholder.jpg",
+      "path": "./photos/Mt Tam/Telescopic View.jpg"
     },
     {
       "height": 3024,
-      "compressed_path": "./photos/RedRock/00100lPORTRAIT_00100_BURST20190426071916488_COVER-EFFECTS.min.jpg",
+      "compressed_path": "./photos/Mt Tam/IMG_20191012_071634.min.jpg",
       "width": 4032,
       "compressed": true,
-      "placeholder_path": "./photos/RedRock/00100lPORTRAIT_00100_BURST20190426071916488_COVER-EFFECTS.placeholder.jpg",
-      "path": "./photos/RedRock/00100lPORTRAIT_00100_BURST20190426071916488_COVER-EFFECTS.jpg"
+      "placeholder_path": "./photos/Mt Tam/IMG_20191012_071634.placeholder.jpg",
+      "path": "./photos/Mt Tam/IMG_20191012_071634.jpg"
     },
     {
-      "height": 3072,
-      "compressed_path": "./photos/RedRock/PXL_20230305_151555842.min.jpg",
-      "width": 4080,
+      "height": 3024,
+      "compressed_path": "./photos/Mt Tam/IMG_20190601_065818.min.jpg",
+      "width": 4032,
       "compressed": true,
-      "placeholder_path": "./photos/RedRock/PXL_20230305_151555842.placeholder.jpg",
-      "path": "./photos/RedRock/PXL_20230305_151555842.jpg"
+      "placeholder_path": "./photos/Mt Tam/IMG_20190601_065818.placeholder.jpg",
+      "path": "./photos/Mt Tam/IMG_20190601_065818.jpg"
     },
     {
-      "height": 3852,
-      "compressed_path": "./photos/RedRock/BluffBnW.min.jpg",
-      "width": 9880,
+      "height": 2988,
+      "compressed_path": "./photos/Mt Tam/Mt Tam.min.jpg",
+      "width": 5312,
       "compressed": true,
-      "placeholder_path": "./photos/RedRock/BluffBnW.placeholder.jpg",
-      "path": "./photos/RedRock/BluffBnW.jpg"
+      "placeholder_path": "./photos/Mt Tam/Mt Tam.placeholder.jpg",
+      "path": "./photos/Mt Tam/Mt Tam.jpg"
     },
     {
-      "height": 3072,
-      "compressed_path": "./photos/RedRock/PXL_20231022_140137804.min.jpg",
-      "width": 4080,
+      "height": 2988,
+      "compressed_path": "./photos/Mt Tam/Tam Sunrise East Peak.min.jpg",
+      "width": 5312,
       "compressed": true,
-      "placeholder_path": "./photos/RedRock/PXL_20231022_140137804.placeholder.jpg",
-      "path": "./photos/RedRock/PXL_20231022_140137804.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/RedRock/PXL_20230308_001839432.min.jpg",
-      "width": 4080,
-      "compressed": true,
-      "placeholder_path": "./photos/RedRock/PXL_20230308_001839432.placeholder.jpg",
-      "path": "./photos/RedRock/PXL_20230308_001839432.jpg"
+      "placeholder_path": "./photos/Mt Tam/Tam Sunrise East Peak.placeholder.jpg",
+      "path": "./photos/Mt Tam/Tam Sunrise East Peak.jpg"
     }
   ]
 }
